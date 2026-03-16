@@ -4,14 +4,14 @@ A web and tech enthusiast from Dasmariñas, Cavite. I'm passionate on creating w
 ---
 
 ## My Current State of Life
-2026 - Present
+2026 - Present  
+- 🔭 I’m currently working on a personal project called Census Management System that utilizes postgreSQL and supabase to learn how to work with larger datasets ...
 - 🌱 I’m currently learning AI-Agent based code automation with OpenCode. I recently learned state management, making reusable components, and manageable full-stack codebase...
+
 2025-2026
 - 🔭 I’m currently working on a personal project called MusicLane that utilizes the Spotify Web API ...
-- 🌱 I’m currently learning state management and creating reusable components. I recently learn unit testing ...
+- 🌱 I’m currently learning state management and creating reusable components. I recently learned unit testing ...
 - 💼 Recent work: IT Application Support ...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I love chocolate drinks...
 ---
 
 ## 🗂 Tech Stack
@@ -19,6 +19,6 @@ A web and tech enthusiast from Dasmariñas, Cavite. I'm passionate on creating w
 
 ---
 
-## 📫 I'm Online and You Can Send Me A Message
+## 📫 I'm Online and you can send me a message
 - 📧 arcejuanmiguell@gmail.com
 - 💼 https://www.linkedin.com/in/uno-arce/
